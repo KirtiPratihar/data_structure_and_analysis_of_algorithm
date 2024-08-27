@@ -1,0 +1,1 @@
+Data Structures and Algorithms (DSA) are used in virtually every software system, from operating systems to web applications: For managing large amounts of data, such as in a social network or a search engine.
