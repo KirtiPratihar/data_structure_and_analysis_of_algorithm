@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     cout << "welcome kirti";
+    cout<<"I am a Artificial Intelligence and Machine Learning Learner";
 }
 
 /*
